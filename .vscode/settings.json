@@ -1,4 +1,5 @@
 {
   "cSpell.ignoreWords": ["Valhala"],
-  "cSpell.words": ["Witcher"]
+  "cSpell.words": ["Witcher"],
+  "liveServer.settings.port": 5501
 }
